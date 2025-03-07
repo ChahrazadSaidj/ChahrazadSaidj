@@ -14,6 +14,8 @@ export const Dashboard = () => {
     setOpen(!open);
   };
 
+  // commentaire inutiles
+
   return (
     <Box sx={{ display: "flex" }}>
       <CssBaseline />
